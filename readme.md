@@ -1,1 +1,3 @@
+![website screenshot](https://github.com/HelloByeLetsNot/90s-web/blob/main/Screenshot_20240328-084948.png)
+
 The website is designed to evoke nostalgia for the 90s era, featuring a user interface reminiscent of Windows 95. The main content is displayed within a pop-up window, complete with a title bar and buttons for minimizing, maximizing, and closing the window. Inside the pop-up window, there's a white scrollable area where information is presented. Additionally, there's a persistent navigation bar at the top of the page, styled as 90s GUI buttons, providing easy access to different sections of the site such as Home, About, Services, and Contact. Overall, the website aims to capture the retro charm of the 90s while providing modern functionality.
